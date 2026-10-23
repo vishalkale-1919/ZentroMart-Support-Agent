@@ -1,0 +1,10 @@
+{
+  "file": "call_02_broken_tv_damage.wav",
+  "transcript": "",
+  "decision": "clarify",
+  "evidence_section_ids": [],
+  "agent_reply": "Sorry, I didn't catch that. Could you say it again?",
+  "spoken_ear_text": "Sorry, I didn't catch that. Could you say it again?",
+  "timestamp": "2026-10-23T07:21:07Z",
+  "processing_seconds": 2.07
+}

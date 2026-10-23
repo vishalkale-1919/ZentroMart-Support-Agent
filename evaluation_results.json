@@ -1,0 +1,29 @@
+{
+  "step1": {
+    "step": "Step 1 (Prompting-Only)",
+    "total_questions": 52,
+    "decision_accuracy": 88.46,
+    "must_include_score": 42.31,
+    "hallucination_rate": 60.0,
+    "retrieval_recall": 0.0
+  },
+  "step2": {
+    "step": "Step 2 (RAG Grounded)",
+    "total_questions": 52,
+    "decision_accuracy": 88.46,
+    "must_include_score": 34.62,
+    "retrieval_recall": 97.87,
+    "must_not_violations": 0,
+    "hallucination_rate": 0.0,
+    "unanswerable_handling_rate": 100.0
+  },
+  "step3": {
+    "step": "Step 3 (Multi-Turn Conversation & Tools)",
+    "total_conversations": 23,
+    "total_turns": 96,
+    "decision_accuracy": 100.0,
+    "tool_call_accuracy": 100.0,
+    "must_include_score": 92.71
+  },
+  "timestamp": "2026-10-23T06:04:02Z"
+}

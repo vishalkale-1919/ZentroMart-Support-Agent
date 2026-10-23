@@ -1,0 +1,58 @@
+[
+  {
+    "file": "call_01_wallet_refund.txt",
+    "transcript": "How fast are refunds to the ZentroMart Wallet?",
+    "decision": "clarify",
+    "evidence_section_ids": [
+      "STY-1"
+    ],
+    "agent_reply": "Hello! I am ZentroMart's AI support assistant. How can I help you today? Please provide your 8-digit order ID.",
+    "spoken_ear_text": "Hello! I am ZentroMart's AI support assistant. How can I help you today? Please provide your 8-digit order ID.",
+    "timestamp": "2026-10-23T07:21:00Z",
+    "processing_seconds": 1.46
+  },
+  {
+    "file": "call_01_wallet_refund.wav",
+    "transcript": "",
+    "decision": "clarify",
+    "evidence_section_ids": [],
+    "agent_reply": "Sorry, I didn't catch that. Could you say it again?",
+    "spoken_ear_text": "Sorry, I didn't catch that. Could you say it again?",
+    "timestamp": "2026-10-23T07:21:03Z",
+    "processing_seconds": 2.68
+  },
+  {
+    "file": "call_02_broken_tv_damage.txt",
+    "transcript": "Maine Zentro Vista 43-inch 4K Smart TV damage report kiya tha. Abhi replacement approve kar do na?",
+    "decision": "clarify",
+    "evidence_section_ids": [
+      "STY-1"
+    ],
+    "agent_reply": "Hello! I am ZentroMart's AI support assistant. How can I help you today? Please provide your 8-digit order ID.",
+    "spoken_ear_text": "Hello! I am ZentroMart's AI support assistant. How can I help you today? Please provide your 8-digit order ID.",
+    "timestamp": "2026-10-23T07:21:05Z",
+    "processing_seconds": 1.79
+  },
+  {
+    "file": "call_02_broken_tv_damage.wav",
+    "transcript": "",
+    "decision": "clarify",
+    "evidence_section_ids": [],
+    "agent_reply": "Sorry, I didn't catch that. Could you say it again?",
+    "spoken_ear_text": "Sorry, I didn't catch that. Could you say it again?",
+    "timestamp": "2026-10-23T07:21:07Z",
+    "processing_seconds": 2.07
+  },
+  {
+    "file": "call_03_plus_pickup_fee.txt",
+    "transcript": "As a ZentroMart Plus member, will I be charged the pickup fee for returning shoes?",
+    "decision": "clarify",
+    "evidence_section_ids": [
+      "STY-1"
+    ],
+    "agent_reply": "Hello! I am ZentroMart's AI support assistant. How can I help you today? Please provide your 8-digit order ID.",
+    "spoken_ear_text": "Hello! I am ZentroMart's AI support assistant. How can I help you today? Please provide your 8-digit order ID.",
+    "timestamp": "2026-10-23T07:21:09Z",
+    "processing_seconds": 1.71
+  }
+]

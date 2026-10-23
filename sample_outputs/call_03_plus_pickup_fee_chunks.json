@@ -1,0 +1,12 @@
+{
+  "file": "call_03_plus_pickup_fee.txt",
+  "transcript": "As a ZentroMart Plus member, will I be charged the pickup fee for returning shoes?",
+  "decision": "clarify",
+  "evidence_section_ids": [
+    "STY-1"
+  ],
+  "agent_reply": "Hello! I am ZentroMart's AI support assistant. How can I help you today? Please provide your 8-digit order ID.",
+  "spoken_ear_text": "Hello! I am ZentroMart's AI support assistant. How can I help you today? Please provide your 8-digit order ID.",
+  "timestamp": "2026-10-23T07:21:09Z",
+  "processing_seconds": 1.71
+}

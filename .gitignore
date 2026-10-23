@@ -1,0 +1,34 @@
+# Secret environment variables (NEVER COMMIT)
+.env
+*.env.local
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Dataset copies (per submission instructions: do not commit dataset copy)
+Capstone_Project_Dataset_FTTT_2026/
+*.zip
+*.tar.gz
+
+# Local logs and test files
+*.log
+scratch/
+test_*.py
+test.pdf
+live_test_*.wav
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
